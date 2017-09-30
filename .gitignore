@@ -26,7 +26,6 @@ Makefile.in
 /test-suite.log
 /man1/mxt-app.1
 /autom4te.cache/
-/m4/
 /obj/
 /libs/
 *.lo
@@ -38,3 +37,4 @@ Makefile.in
 doc/html
 doc/doxygen_sqlite3.db
 /tags
+m4/*
